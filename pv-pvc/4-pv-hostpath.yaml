@@ -1,4 +1,7 @@
-Stastic
+#Stastic
+#Create PV
+
+
 apiVersion: v1
 kind: PersistentVolume
 metadata:
